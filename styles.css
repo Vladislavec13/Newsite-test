@@ -1,0 +1,51 @@
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url('https://img.magnific.com/free-photo/anime-eyes-illustration_23-2151660486.jpg?semt=ais_hybrid&w=740&q=80');
+    background-repeat: repeat;
+  background-position: center center;
+  background-size: contain;
+  background-attachment: 100%;
+}
+h1 {
+color: red;
+font-size: 60px;
+font-weight: bold;
+margin-left: 30%;
+
+}
+p {
+    font-size: 24px;
+    font-weight: 10;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    height: 60%;
+    max-height: 300px; 
+    font-style: oblique;
+    color: white;
+}
+a {
+    font-size: 20px;
+    color: blue;
+}
+img {
+    height: 50%;
+    max-height: 500px;
+    width: 40%;
+    max-width: 300px;
+    margin-left: 20%;
+    max-margin-lest: 40px;
+    border: 2px solid black;
+
+}
+#message {
+color: brown;
+font-size: 26px;
+font-weight: bolder;
+margin-left: 10%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button {
+color: rgb(0, 4, 255);
+font-family: cursive;
+}
