@@ -33,8 +33,7 @@ img {
     max-height: 500px;
     width: 40%;
     max-width: 300px;
-    margin-left: 20%;
-    max-margin-lest: 40px;
+    max-margin-lest: 0px;
     border: 2px solid black;
 
 }
